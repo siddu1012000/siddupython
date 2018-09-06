@@ -1,0 +1,9 @@
+1)make github account
+2)create repository
+3)learnt linux commands
+4)open sublime editor using the command subl
+5)type the program
+6)save it as .py
+7)open the program using cd
+8)use ls command to see all the existing files
+9)use gedit lab1.txt to creat this text file
